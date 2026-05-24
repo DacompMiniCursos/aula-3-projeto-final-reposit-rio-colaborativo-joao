@@ -7,4 +7,5 @@ https://github.com/joaoamandio0607/my-project/
 ## Autores
 
 João Guilherme Raposo Lobato
+
 João Amândio
